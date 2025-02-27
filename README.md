@@ -16,6 +16,7 @@
 ## Ссылки
 - [Исходный код программы](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&source=recommendations&tabs=csharp)
 - [Документация по отладке в Visual Studio](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
+- [Ссылка на исправленный код](https://github.com/ElizavetaRazumovskaya/fibonaci/blob/Galaxys/fibonaci/NewGalaxy).
 
 ## Автор
 **Афанасьев Иван и Разумовская Елизавета**
