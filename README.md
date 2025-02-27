@@ -16,6 +16,7 @@
 ## Ссылки
 - [Исходный код программы](https://learn.microsoft.com/ru-ru/training/modules/dotnet-debug-visual-studio/4-use-visual-studio-debugger)
 - [Документация по отладке в Visual Studio](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
+- [Исправленный код для фибоначчи](https://github.com/ElizavetaRazumovskaya/fibonaci/blob/master/fibonaci/NewFibonacci).
 
 
 
