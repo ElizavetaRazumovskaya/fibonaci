@@ -16,6 +16,7 @@
 ## Ссылки
 - [Исходный код программы](https://learn.microsoft.com/ru-ru/visualstudio/get-started/csharp/tutorial-debugger?toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json&view=vs-2022#create-a-project)
 - [Документация по отладке в Visual Studio](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
+- [Ссылка на исправленную программу](https://github.com/ElizavetaRazumovskaya/fibonaci/blob/Letters/fibonaci/NewLetters).
 
 ## Автор
 **Афанасьев Иван и Разумовская Елизавета**
